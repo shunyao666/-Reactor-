@@ -1,0 +1,3 @@
+/home/parallels/muduo_net/build/CMakeFiles/rebuild_cache.dir
+/home/parallels/muduo_net/build/CMakeFiles/mymuduo.dir
+/home/parallels/muduo_net/build/CMakeFiles/edit_cache.dir
